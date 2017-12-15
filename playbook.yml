@@ -1,6 +1,0 @@
----
--- hosts: webhost2
-   tasks
-	
-	-name: Create file
-	file: paht=/tmp/ymlfile state=touch
