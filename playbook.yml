@@ -1,5 +1,5 @@
 ---
--- hosts: webhost
+-- hosts: webhost2
    tasks
 	
 	-name: Create file
